@@ -1,6 +1,6 @@
 ## Browser Fingerprinting and Bypass Techniques 
 
-This repository provides a set of tools for bypassing and evading browser fingerprinting techniques. Browser fingerprinting is a method used to track and identify users based on their browser and system characteristics. This project offers solutions for both client-side and server-side implementations to help mitigate such tracking.
+This repository provides an example for fingerprinting browser and evading browser fingerprinting techniques. Browser fingerprinting is a method used to track and identify users based on their browser and system characteristics. This project offers solutions for both client-side and server-side implementations to help mitigate such tracking.
 
 ### Files
 
